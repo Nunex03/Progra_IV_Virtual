@@ -1,0 +1,6 @@
+<?php
+    $nombreProducto = '';
+    $precioProducto = '';
+    $cantidad = '';
+
+?>
